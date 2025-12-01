@@ -13,8 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
+### Demo (Vercel): 
+Open [https://build-template-email.vercel.app/](https://build-template-email.vercel.app/)
 
+### Open in Local:
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 ## Key Envirement (.env.local):
 
